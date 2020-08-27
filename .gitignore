@@ -1,3 +1,6 @@
+moc_*.cpp
+moc_*.h
+
 # Prerequisites
 *.d
 
